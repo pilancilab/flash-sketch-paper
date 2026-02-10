@@ -15,13 +15,13 @@ It includes:
 ```bash
 # SSH (recommended if you have keys)
 git clone --recurse-submodules git@github.com:pilancilab/flash-sketch-paper.git
-cd flash-sketch-arxiv
+cd flash-sketch-paper
 ```
 
 ```bash
 # HTTPS
 git clone --recurse-submodules https://github.com/pilancilab/flash-sketch-paper.git
-cd flash-sketch-arxiv
+cd flash-sketch-paper
 ```
 
 Setup the Python environment:
