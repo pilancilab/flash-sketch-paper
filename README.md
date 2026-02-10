@@ -14,13 +14,13 @@ It includes:
 
 ```bash
 # SSH (recommended if you have keys)
-git clone --recurse-submodules git@github.com:rajatvd/flash-sketch-arxiv.git
+git clone --recurse-submodules git@github.com:pilancilab/flash-sketch-paper.git
 cd flash-sketch-arxiv
 ```
 
 ```bash
 # HTTPS
-git clone --recurse-submodules https://github.com/rajatvd/flash-sketch-arxiv.git
+git clone --recurse-submodules https://github.com/pilancilab/flash-sketch-paper.git
 cd flash-sketch-arxiv
 ```
 
